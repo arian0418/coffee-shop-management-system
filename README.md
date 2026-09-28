@@ -1,6 +1,6 @@
 # Coffee Shop Management System
 
-A Python command-line coffee shop management system for processing coffee orders and tracking sales.
+A Python console app for managing coffee orders and sales for processing coffee orders and tracking sales.
 
 ## Features
 
@@ -10,7 +10,7 @@ A Python command-line coffee shop management system for processing coffee orders
 - Track total ounces of coffee sold
 - Track the number of cups sold by size
 - Display a complete sales summary
-- Menu-based interface with input validation
+- Interactive menu with input validation
 
 ## Technologies
 
